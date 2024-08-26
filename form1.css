@@ -1,0 +1,41 @@
+body{
+    background-color: black;
+}
+.container{
+    margin: 30px auto;
+    background-color: rgb(235, 239, 237);
+    border-top: 3px solid rgb(160, 159, 159);
+    border-bottom: 3px solid rgb(160, 159, 159);
+    width: 350px;
+    text-align: center;
+    border-radius: 10px;
+    
+    
+}
+h2{
+    text-align: center;
+}
+input{
+    width: 250px;
+    height: 25px;
+    border: 0;
+    border-bottom: 2px solid gray;
+    border-radius: 10px;
+}
+.submit{
+    width: 60px;
+    background-color: white;
+    border: 0;
+    border-bottom: 2px solid gray;
+    margin: 10px;
+
+}
+.con1{
+    margin: auto;
+    width: 300px;
+    background-color: rgb(186, 191, 189);
+    border: 3px solid black;
+    border: 2px solid gray;
+    padding: 5px;
+    
+}
